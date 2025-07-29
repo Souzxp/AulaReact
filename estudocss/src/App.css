@@ -1,0 +1,47 @@
+body
+{
+    margin: 0;
+    padding: 0;
+
+}
+
+h1
+{
+color: white;
+background-color: rgb(96,0,0);
+margin: 0;
+text-align: center;
+padding:20px;
+}
+
+li
+{
+    color: #de0c16;
+}
+
+p
+{
+    font-size: 20px;
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+img
+{
+    width: 500px;
+    border: 5px solid red;
+    border-radius: 10px;
+
+}
+
+.centro
+{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    border: 2px dashed blue;
+}
+
+
+
