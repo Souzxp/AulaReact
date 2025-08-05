@@ -1,9 +1,18 @@
-export default function App()
-{
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Home from "./Paginas/Home";
+import SaoPaulo from "./Paginas/SaoPaulo";
+
+export default function App() {
     return (
-        <div>
-            <h1>Estudo CSS</h1>
-            
-        </div>
+        <BrowserRouter>
+
+            <Routes>
+
+                <Route path="/" element={< Home />} />
+                <Route path="/sp" element={<SaoPaulo />} />
+
+            </Routes>
+
+        </BrowserRouter>
     );
 }
