@@ -12,7 +12,7 @@ export default function SaoPaulo()
 </p>
 
 <p>
-    <a href="/">Voltar para Home</a>
+    <a href="/SP.png">Voltar para Home</a>
 </p>
             </div>
     )
