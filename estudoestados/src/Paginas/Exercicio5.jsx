@@ -1,4 +1,4 @@
-export default function exercicio2() {
+export default function exercicio5() {
     return (
       <div>
         <h1>Exercício 2</h1>
@@ -8,7 +8,7 @@ export default function exercicio2() {
         
           <form>
   <p>
-    Digite a temperatura em grau fahrenhait: <br />
+    Digite o valor do lado: <br />
     <input type="text" />
   </p>
   

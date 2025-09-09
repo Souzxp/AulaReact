@@ -1,4 +1,4 @@
-export default function exercicio2() {
+export default function exercicio10() {
     return (
       <div>
         <h1>Exercício 2</h1>
@@ -8,16 +8,21 @@ export default function exercicio2() {
         
           <form>
   <p>
-    Digite a temperatura em grau fahrenhait: <br />
+    Digite o valor da hora: <br />
     <input type="text" />
   </p>
+
+  <p>
+    Digite a quantidade de horas: <br />
+    <input type="text" />
+  </p>
+  
   
   
   
       <input type="button" value="Calcular" />
   </form>
   
-  <a href="/"voltar></a>
    </div>
   
   
