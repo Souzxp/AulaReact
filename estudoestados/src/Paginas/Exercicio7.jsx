@@ -1,7 +1,7 @@
 export default function exercicio7() {
     return (
       <div>
-        <h1>Exercício 2</h1>
+        <h1>Exercício 7</h1>
   
         <div className="conteudo">
   
@@ -27,12 +27,12 @@ export default function exercicio7() {
   
       <input type="button" value="Calcular" />
   </form>
-  
+  <p>
   <a href="/"voltar></a>
+  
+  </p>
+  
    </div>
-  
-  
-  
   
         
       </div>
